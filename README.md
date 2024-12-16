@@ -4,7 +4,9 @@ GenAI course(LLM)
 🗓️*Week 1*: Practical Introduction to LLMs
 
 Applied LLM Foundations
+
 Real World LLM Use Cases
+
 Domain and Task Adaptation Methods
 
 🗓️*Week 2*: Prompting and Prompt Engineering
