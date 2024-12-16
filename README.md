@@ -81,6 +81,8 @@ LLM Alignment
 🗓️*Week 11 *Bonus* [March 25 2024]*: Foundations
 
 Generative Models Foundations
+
 Self-Attention and Transformers
+
 Neural Networks for Language
 
